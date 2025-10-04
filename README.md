@@ -1,5 +1,5 @@
 # WiresharkAnalysis
-####A Wireshark analysis of the protocols engaged when visiting specific websites.
+### A Wireshark analysis of the protocols engaged when visiting specific websites.
 
 This analysis consists of two main parts: 
 •	The first part focuses on the use of the ICMP protocol. The traffic captured (packetakia.pcapng file) reflects the command tracert www.w3schools.com
